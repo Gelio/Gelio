@@ -2,16 +2,23 @@
 
 I'm a Senior Frontend Developer working in Warsaw, Poland.
 
-## My popular repositories
+#### 💻 I enjoy working with...
+
+* React
+* TypeScript
+* all things frontend-related
+* Go
+
+#### 🏆 My popular repositories
 
 * [tslint-react-hooks](https://github.com/Gelio/tslint-react-hooks)
 * [tslint-import-group-ordering](https://github.com/Gelio/tslint-import-group-ordering)
 
-## Open source contributions
+#### 🤝 Open source contributions
 
 * [esbuild](https://github.com/evanw/esbuild)
 
-## Fun projects and work
+#### 🎈 Fun projects and work
 
 * TypeScript challenges
   * [Integers comparator](https://github.com/type-challenges/type-challenges/issues/348)
@@ -23,6 +30,13 @@ I'm a Senior Frontend Developer working in Warsaw, Poland.
 * [Advent of Code solutions](https://github.com/Gelio/advent-of-code-solutions)
 * [loose-ts-check](https://github.com/Gelio/loose-ts-check)
 * [State synchronizers](https://github.com/Gelio/state-synchronizers)
+* [Clipboard IP data generator Chrome extension](https://github.com/Gelio/chrome-clipboard-data-generator-extension) ([extension](https://chrome.google.com/webstore/detail/clipboard-data-generator/jeakkdmlghlpbadeigbfebhioefcglef))
+
+#### 🏠 Outside of work, I enjoy...
+
+* weightlifting 🏋️
+* reading books 📕
+* snowboarding 🏂
 
 <!--
 **Gelio/Gelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
