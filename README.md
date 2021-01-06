@@ -31,6 +31,7 @@ I'm a Senior Frontend Developer working in Warsaw, Poland.
 * [loose-ts-check](https://github.com/Gelio/loose-ts-check)
 * [State synchronizers](https://github.com/Gelio/state-synchronizers)
 * [Clipboard IP data generator Chrome extension](https://github.com/Gelio/chrome-clipboard-data-generator-extension) ([extension](https://chrome.google.com/webstore/detail/clipboard-data-generator/jeakkdmlghlpbadeigbfebhioefcglef))
+* [Hubot tasks reader](https://github.com/Gelio/hubot-sheets-task-reader)
 
 #### 🏠 Outside of work, I enjoy...
 
