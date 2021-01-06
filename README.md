@@ -8,6 +8,7 @@ I'm a Senior Frontend Developer working in Warsaw, Poland.
 * TypeScript
 * all things frontend-related
 * Go
+* Rust
 
 #### 🏆 My popular repositories
 
