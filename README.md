@@ -40,6 +40,10 @@ I'm a Senior Frontend Developer working in Warsaw, Poland.
 * reading books 📕
 * snowboarding 🏂
 
+#### 📝 Fun facts about me
+
+* When I was younger, I used to dance traditional Polish folk dances 🕺
+
 <!--
 **Gelio/Gelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
