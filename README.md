@@ -25,6 +25,7 @@ I'm a Senior Frontend Developer working in Warsaw, Poland.
   * [Integers comparator](https://github.com/type-challenges/type-challenges/issues/348)
   * [Currying](https://github.com/type-challenges/type-challenges/issues/516)
 * [Dwarf Spinner](https://github.com/Gelio/dwarf-spinner) ([demo](https://gelio.github.io/dwarf-spinner/))
+* [VSCode Temporary vim mode extension](https://github.com/Gelio/vscode-temporary-vim-motions) ([Marketplace](https://marketplace.visualstudio.com/items?itemName=gelio.temporary-vim-motions))
 * [Roguelike Squares](https://github.com/Gelio/roguelike-squares) ([demo](http://gelio.github.io/roguelike-squares/build/index.html))
 * [The game of life simulation](https://github.com/Gelio/game-of-life-simulation) ([demo](http://gelio.github.io/game-of-life-simulation/build/))
 * [Programming Challenge - a clicker game](https://github.com/Gelio/Programming-Challenge) ([demo](http://gelio.github.io/Programming-Challenge/))
