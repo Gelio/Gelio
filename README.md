@@ -18,6 +18,7 @@ I'm a Senior Frontend Developer working in Warsaw, Poland.
 #### 🤝 Open source contributions
 
 * [esbuild](https://github.com/evanw/esbuild)
+* [immer](https://github.com/immerjs/immer)
 
 #### 🎈 Fun projects and work
 
