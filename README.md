@@ -20,6 +20,7 @@ I'm a Senior Frontend Developer working in Warsaw, Poland.
 * [esbuild](https://github.com/evanw/esbuild)
 * [immer](https://github.com/immerjs/immer)
 * [SvelteKit](https://github.com/sveltejs/kit)
+* [prettierd](https://github.com/fsouza/prettierd)
 
 #### 🎈 Fun projects and work
 
