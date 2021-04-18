@@ -21,6 +21,8 @@ I'm a Senior Frontend Developer working in Warsaw, Poland.
 * [immer](https://github.com/immerjs/immer)
 * [SvelteKit](https://github.com/sveltejs/kit)
 * [prettierd](https://github.com/fsouza/prettierd)
+* [efm-langserver](https://github.com/mattn/efm-langserver)
+* [sveltejs/language-tools](https://github.com/sveltejs/language-tools)
 
 #### 🎈 Fun projects and work
 
