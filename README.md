@@ -23,6 +23,7 @@ I'm a Senior Frontend Developer working in Warsaw, Poland.
 * [prettierd](https://github.com/fsouza/prettierd)
 * [efm-langserver](https://github.com/mattn/efm-langserver)
 * [sveltejs/language-tools](https://github.com/sveltejs/language-tools)
+* [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 
 #### 🎈 Fun projects and work
 
