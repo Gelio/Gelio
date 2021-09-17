@@ -24,6 +24,7 @@ I'm a Senior Frontend Developer working in Warsaw, Poland.
 * [efm-langserver](https://github.com/mattn/efm-langserver)
 * [sveltejs/language-tools](https://github.com/sveltejs/language-tools)
 * [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+* [null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
 
 #### 🎈 Fun projects and work
 
