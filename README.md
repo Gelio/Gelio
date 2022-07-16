@@ -25,6 +25,9 @@ I'm a Senior Frontend Developer working in Warsaw, Poland.
 * [sveltejs/language-tools](https://github.com/sveltejs/language-tools)
 * [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 * [null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
+* [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
+* [firenvim](https://github.com/glacambre/firenvim)
+* [nvim-surround](https://github.com/kylechui/nvim-surround)
 
 #### 🎈 Fun projects and work
 
