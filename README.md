@@ -1,19 +1,20 @@
 ### Hi there 👋
 
-I'm a Senior Frontend Developer working in Warsaw, Poland.
+I'm a Senior Frontend Developer working from Warsaw, Poland.
 
 #### 💻 I enjoy working with...
 
 * React
 * TypeScript
 * all things frontend-related
-* Go
 * Rust
 
 #### 🏆 My popular repositories
 
 * [tslint-react-hooks](https://github.com/Gelio/tslint-react-hooks)
 * [tslint-import-group-ordering](https://github.com/Gelio/tslint-import-group-ordering)
+* [go-global-update](https://github.com/Gelio/go-global-update)
+* [my dotfiles](https://github.com/Gelio/ubuntu-dotfiles)
 
 #### 🤝 Open source contributions
 
@@ -55,18 +56,3 @@ I'm a Senior Frontend Developer working in Warsaw, Poland.
 #### 📝 Fun facts about me
 
 * When I was younger, I used to dance traditional Polish folk dances 🕺
-
-<!--
-**Gelio/Gelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
