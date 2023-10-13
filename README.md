@@ -36,6 +36,7 @@ I'm a Senior Frontend Developer working from Warsaw, Poland.
 * TypeScript challenges
   * [Integers comparator](https://github.com/type-challenges/type-challenges/issues/348)
   * [Currying](https://github.com/type-challenges/type-challenges/issues/516)
+* [cmp-natdat](https://github.com/Gelio/cmp-natdat) - an nvim-cmp source to autocomplete natural dates and turm them into ISO dates 
 * [Dwarf Spinner](https://github.com/Gelio/dwarf-spinner) ([demo](https://gelio.github.io/dwarf-spinner/))
 * [VSCode Temporary vim mode extension](https://github.com/Gelio/vscode-temporary-vim-motions) ([Marketplace](https://marketplace.visualstudio.com/items?itemName=gelio.temporary-vim-motions))
 * [Roguelike Squares](https://github.com/Gelio/roguelike-squares) ([demo](http://gelio.github.io/roguelike-squares/build/index.html))
