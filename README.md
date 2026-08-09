@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Frontend Developer working from Warsaw, Poland.
+I'm a Senior Staff Frontend Engineer working remotely from Lublin, Poland.
 
 #### 💻 I enjoy working with...
 
@@ -8,13 +8,14 @@ I'm a Senior Frontend Developer working from Warsaw, Poland.
 * TypeScript
 * all things frontend-related
 * Rust
+* Go
 
 #### 🏆 My popular repositories
 
 * [tslint-react-hooks](https://github.com/Gelio/tslint-react-hooks)
 * [tslint-import-group-ordering](https://github.com/Gelio/tslint-import-group-ordering)
 * [go-global-update](https://github.com/Gelio/go-global-update)
-* [my dotfiles](https://github.com/Gelio/ubuntu-dotfiles)
+* [my dotfiles](https://github.com/Gelio/dotfiles)
 
 #### 🤝 Open source contributions
 
@@ -51,7 +52,9 @@ I'm a Senior Frontend Developer working from Warsaw, Poland.
 #### 🏠 Outside of work, I enjoy...
 
 * weightlifting 🏋️
-* reading books 📕
+* running 🏃
+* flying FPV drones 🚁
+* 3d printing 🖨️
 * snowboarding 🏂
 
 #### 📝 Fun facts about me
