@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Staff Frontend Engineer working remotely from Lublin, Poland.
+I'm a Staff Software Engineer working remotely from Lublin, Poland.
 
 #### 💻 I enjoy working with...
 
